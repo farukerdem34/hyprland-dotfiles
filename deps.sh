@@ -1,1 +1,14 @@
-sudo dnf install hyprland hyprlock hypridle hyprpaper terminator pamixer mako rofi sway zsh vim -y
+sudo dnf install \
+    hyprland \
+    hyprlock \
+    hypridle \
+    hyprpaper \
+    terminator \
+    pamixer \
+    mako \
+    rofi \
+    sway \
+    zsh \
+    vim \
+    btop \
+    -y
