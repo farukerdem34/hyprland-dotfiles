@@ -20,3 +20,8 @@ image/gif=org.kde.gwenview.desktop
 image/bmp=org.kde.gwenview.desktop
 image/tiff=org.kde.gwenview.desktop
 ```
+
+# GTK/Qt Settings
+```
+systemsetting
+```
